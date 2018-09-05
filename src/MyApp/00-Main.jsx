@@ -15,7 +15,7 @@ export default class Main extends React.Component{
                 <button>Click</button>
                 <br/>
 
-                <div className="blue1" >Test Text</div>
+                <div className="myclass1" >Test Text</div>
 
             </div>
         )
